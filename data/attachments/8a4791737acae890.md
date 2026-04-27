@@ -1,0 +1,360 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e5]:
+      - generic [ref=e7]:
+        - text: The
+        - strong [ref=e8]: Original Kiwi Rating Site
+      - generic [ref=e10]:
+        - text: Now with
+        - strong [ref=e11]: 139,463
+        - text: ratings online
+    - navigation [ref=e12]:
+      - generic [ref=e13]:
+        - generic [ref=e14]:
+          - link "." [ref=e15] [cursor=pointer]:
+            - /url: /
+            - img [ref=e16]
+            - img [ref=e20]
+            - generic [ref=e39]: .
+          - generic [ref=e40]: Find Kiwi Tradies & Businesses.
+          - text:  
+        - list [ref=e42]:
+          - listitem [ref=e43]:
+            - link "How it Works" [ref=e44] [cursor=pointer]:
+              - /url: /everyone
+          - listitem [ref=e45]:
+            - link "For Businesses" [ref=e46] [cursor=pointer]:
+              - /url: /businesses
+          - listitem [ref=e47]:
+            - link "Jobs" [ref=e48] [cursor=pointer]:
+              - /url: /new/jobs
+          - listitem [ref=e49]:
+            - link "Blog" [ref=e50] [cursor=pointer]:
+              - /url: /blog
+          - listitem [ref=e51]:
+            - link "Info-zone" [ref=e52] [cursor=pointer]:
+              - /url: /info-zone
+          - listitem [ref=e53]:
+            - link "Bruno F." [ref=e54] [cursor=pointer]:
+              - /url: /customers/account
+              - strong [ref=e55]: Bruno F.
+          - listitem [ref=e56]:
+            - link "" [ref=e57] [cursor=pointer]:
+              - /url: "#"
+  - generic [ref=e58]:
+    - generic [ref=e60]:
+      - generic [ref=e64]:
+        - link "NoCowboys" [ref=e66] [cursor=pointer]:
+          - /url: /
+        - generic [ref=e67]: /
+        - link "All categories" [ref=e69] [cursor=pointer]:
+          - /url: /search/martinborough/all-categories
+        - generic [ref=e70]: /
+        - link "Tuition & Coaching" [ref=e72] [cursor=pointer]:
+          - /url: /search/martinborough/tuition-coaching
+        - generic [ref=e73]: /
+        - link "Academic" [ref=e75] [cursor=pointer]:
+          - /url: /search/martinborough/academic
+        - generic [ref=e76]: /
+      - generic [ref=e77]:
+        - generic [ref=e83]: 
+        - generic [ref=e84]:
+          - heading "Greenice Web Development Academic in Martinborough" [level=1] [ref=e85]:
+            - text: Greenice Web Development
+            - text: Academic in Martinborough
+          - generic [ref=e86]:
+            - generic [ref=e87]:
+              - generic [ref=e88]: 
+              - generic [ref=e89]: 
+              - generic [ref=e90]: 
+              - generic [ref=e91]: 
+              - generic [ref=e92]: 
+            - text: 100% approval
+            - link "from 2 authenticated ratings" [ref=e93] [cursor=pointer]:
+              - /url: "#ratings"
+          - tab "Rate this business" [ref=e101] [cursor=pointer]:
+            - generic [ref=e102]: Rate this business
+    - tablist [ref=e108]:
+      - tab "Company Profile" [ref=e109]
+      - tab "NC Authenticated Ratings (2)" [ref=e110] [cursor=pointer]
+      - tab "Other Ratings (264)" [ref=e111] [cursor=pointer]
+      - tab "Media (1)" [ref=e112] [cursor=pointer]
+    - generic [ref=e116]:
+      - text:  
+      - tabpanel [ref=e117]:
+        - tablist [ref=e118]
+        - generic [ref=e122]:
+          - generic [ref=e123]:
+            - generic [ref=e124]: "Date job completed:"
+            - generic [ref=e125]:
+              - combobox [ref=e126]:
+                - option "Jan"
+                - option "Feb"
+                - option "Mar"
+                - option "Apr" [selected]
+                - option "May"
+                - option "Jun"
+                - option "Jul"
+                - option "Aug"
+                - option "Sep"
+                - option "Oct"
+                - option "Nov"
+                - option "Dec"
+              - combobox [ref=e127]:
+                - option "2026" [selected]
+                - option "2025"
+                - option "2024"
+                - option "2023"
+                - option "2022"
+                - option "2021"
+          - generic [ref=e128]:
+            - generic [ref=e129]: "Name of the person who completed the work:"
+            - textbox "Name of the person who completed the work:" [ref=e130]
+            - paragraph [ref=e131]: Full name of the contact person undertaking the work on behalf of this business
+          - generic [ref=e132]:
+            - generic [ref=e133]: "Your first name:"
+            - textbox "Your first name:" [ref=e134]: Bruno
+            - paragraph [ref=e135]: Only your first name will be displayed
+          - generic [ref=e136]:
+            - generic [ref=e137]: "Your last name: (optional)"
+            - 'textbox "Your last name: (optional)" [ref=e138]'
+            - paragraph [ref=e139]: Your last name will not be displayed
+          - generic [ref=e140]:
+            - generic [ref=e141]: "Your email:"
+            - textbox [ref=e142]: bruno@greenice.net
+            - paragraph [ref=e143]: An email will be sent to this address to authenticate your feedback. If you don't get the email, please check your spam folder. This email address will NOT be published on NoCowboys.co.nz, provided to this business or made available to third parties
+          - generic [ref=e144]:
+            - generic [ref=e145]: "Re-enter email:"
+            - textbox [ref=e146]: bruno@greenice.net
+            - paragraph [ref=e147]: Please confirm your email
+          - generic [ref=e148]:
+            - generic [ref=e149]: "Comments:"
+            - application [ref=e150]:
+              - generic "Use the TAB key to insert emoji faster" [ref=e152] [cursor=pointer]
+            - paragraph [ref=e155]: Write about your experience. The more information and details you give, the more credible to other users your rating will be. Be as descriptive as possible - there's no limit
+          - paragraph [ref=e157]: You can only leave a rating if you have engaged this business to work for you.
+          - generic [ref=e158]:
+            - generic [ref=e159]:
+              - text: Reliability
+              - generic [ref=e160]: Did they arrive when they said they would? Was the job finished on time?
+            - generic [ref=e162]:
+              - generic [ref=e163]:
+                - radio "0%" [ref=e164]
+                - text: 0%
+              - radio [ref=e166]
+              - radio [ref=e168]
+              - radio [ref=e170]
+              - radio [ref=e172]
+              - generic [ref=e173]:
+                - radio "50%" [ref=e174]
+                - text: 50%
+              - radio [ref=e176]
+              - radio [ref=e178]
+              - radio [ref=e180]
+              - radio [ref=e182]
+              - generic [ref=e183]:
+                - radio "100%" [ref=e184]
+                - text: 100%
+          - generic [ref=e185]:
+            - generic [ref=e186]:
+              - text: Quality of work
+              - generic [ref=e187]: Were you happy with the quality of work this business provided?
+            - generic [ref=e189]:
+              - generic [ref=e190]:
+                - radio "0%" [ref=e191]
+                - text: 0%
+              - radio [ref=e193]
+              - radio [ref=e195]
+              - radio [ref=e197]
+              - radio [ref=e199]
+              - generic [ref=e200]:
+                - radio "50%" [ref=e201]
+                - text: 50%
+              - radio [ref=e203]
+              - radio [ref=e205]
+              - radio [ref=e207]
+              - radio [ref=e209]
+              - generic [ref=e210]:
+                - radio "100%" [ref=e211]
+                - text: 100%
+          - generic [ref=e212]:
+            - generic [ref=e213]:
+              - text: Value for money
+              - generic [ref=e214]: Was the job reasonably priced?
+            - generic [ref=e216]:
+              - generic [ref=e217]:
+                - radio "0%" [ref=e218]
+                - text: 0%
+              - radio [ref=e220]
+              - radio [ref=e222]
+              - radio [ref=e224]
+              - radio [ref=e226]
+              - generic [ref=e227]:
+                - radio "50%" [ref=e228]
+                - text: 50%
+              - radio [ref=e230]
+              - radio [ref=e232]
+              - radio [ref=e234]
+              - radio [ref=e236]
+              - generic [ref=e237]:
+                - radio "100%" [ref=e238]
+                - text: 100%
+          - generic [ref=e239]:
+            - generic [ref=e240]:
+              - text: Communication
+              - generic [ref=e241]: Was the business easy to communicate with? Were you kept up-to-date during the job?
+            - generic [ref=e243]:
+              - generic [ref=e244]:
+                - radio "0%" [ref=e245]
+                - text: 0%
+              - radio [ref=e247]
+              - radio [ref=e249]
+              - radio [ref=e251]
+              - radio [ref=e253]
+              - generic [ref=e254]:
+                - radio "50%" [ref=e255]
+                - text: 50%
+              - radio [ref=e257]
+              - radio [ref=e259]
+              - radio [ref=e261]
+              - radio [ref=e263]
+              - generic [ref=e264]:
+                - radio "100%" [ref=e265]
+                - text: 100%
+          - generic [ref=e266]:
+            - strong [ref=e267]: "Photos:"
+            - paragraph [ref=e268]:
+              - text: You can upload
+              - strong [ref=e269]: JPG (JPEG), GIF or PNG
+              - text: images. The maximum size for any image is
+              - strong [ref=e270]: 5MB
+              - text: . Note that some
+              - strong [ref=e271]: PNG
+              - text: images may not appear correctly, so we recommend using
+              - strong [ref=e272]: JPG or GIF
+              - text: images.
+          - generic [ref=e273]:
+            - generic [ref=e274]: Choose file... (optional)
+            - button "Choose file... (optional)" [ref=e275]
+          - generic [ref=e276]:
+            - generic [ref=e277]: Choose file... (optional)
+            - button "Choose file... (optional)" [ref=e278]
+          - generic [ref=e279]:
+            - generic [ref=e280]: Choose file... (optional)
+            - button "Choose file... (optional)" [ref=e281]
+          - generic [ref=e282]:
+            - generic [ref=e283]: Choose file... (optional)
+            - button "Choose file... (optional)" [ref=e284]
+          - generic [ref=e285]:
+            - generic [ref=e286]: Choose file... (optional)
+            - button "Choose file... (optional)" [ref=e287]
+          - generic [ref=e289]: "Are you human? Follow the instructions:"
+          - button "Submit your rating" [ref=e291] [cursor=pointer]
+      - text: 
+  - generic [ref=e294]:
+    - generic [ref=e295]:
+      - img [ref=e297]
+      - heading "Done!" [level=2] [ref=e299]
+      - text: Your rating is being reviewed by the friendly NoCowboys’ Team. We will notify you when it’s live on the site!
+      - heading "Share the love!" [level=3] [ref=e300]
+      - paragraph [ref=e301]: Pleasantly surprised by excellent service? Tell everyone that Greenice Web Development can be trusted and that you'd use them again!
+      - generic [ref=e303]:
+        - generic:
+          - iframe
+      - heading "Do you want to add this business to your favorites?" [level=3] [ref=e304]
+      - generic [ref=e305]:
+        - link "Add to favourites" [ref=e306] [cursor=pointer]:
+          - /url: "#"
+        - generic [ref=e307]:
+          - generic [ref=e308]: 
+          - text: "3"
+      - paragraph [ref=e309]:
+        - link "Add another business to your favorites" [ref=e310] [cursor=pointer]:
+          - /url: /search-business
+    - button "Close" [ref=e312] [cursor=pointer]
+  - contentinfo [ref=e313]:
+    - generic [ref=e314]:
+      - generic [ref=e315]:
+        - strong [ref=e317]: Website
+        - list [ref=e319]:
+          - listitem [ref=e320]:
+            - link "Home" [ref=e321] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e322]:
+            - link "How it Works" [ref=e323] [cursor=pointer]:
+              - /url: /everyone
+          - listitem [ref=e324]:
+            - link "For Businesses" [ref=e325] [cursor=pointer]:
+              - /url: /businesses
+          - listitem [ref=e326]:
+            - link "Jobs" [ref=e327] [cursor=pointer]:
+              - /url: /new/jobs
+          - listitem [ref=e328]:
+            - link "FAQs" [ref=e329] [cursor=pointer]:
+              - /url: /faq
+          - listitem [ref=e330]:
+            - link "Blog" [ref=e331] [cursor=pointer]:
+              - /url: /blog
+          - listitem [ref=e332]:
+            - link "Login" [ref=e333] [cursor=pointer]:
+              - /url: /login
+          - listitem [ref=e334]:
+            - link "NC Websites" [ref=e335] [cursor=pointer]:
+              - /url: /nc-websites
+      - generic [ref=e336]:
+        - strong [ref=e338]: Ratings
+        - list [ref=e340]:
+          - listitem [ref=e341]:
+            - link "Find a Tradie/Business" [ref=e342] [cursor=pointer]:
+              - /url: /#
+          - listitem [ref=e343]:
+            - link "Most Recent Ratings" [ref=e344] [cursor=pointer]:
+              - /url: /recent-ratings
+          - listitem [ref=e345]:
+            - link "Browse All Categories" [ref=e346] [cursor=pointer]:
+              - /url: /category-list
+      - generic [ref=e347]:
+        - strong [ref=e349]: Company
+        - list [ref=e351]:
+          - listitem [ref=e352]:
+            - link "About" [ref=e353] [cursor=pointer]:
+              - /url: /about-us
+          - listitem [ref=e354]:
+            - link "What's in it for Businesses" [ref=e355] [cursor=pointer]:
+              - /url: /why-register
+          - listitem [ref=e356]:
+            - link "Feedback" [ref=e357] [cursor=pointer]:
+              - /url: /contact-us/send-message
+          - listitem [ref=e358]:
+            - link "Contact" [ref=e359] [cursor=pointer]:
+              - /url: /contact-us
+          - listitem [ref=e360]:
+            - link "Testimonials" [ref=e361] [cursor=pointer]:
+              - /url: /testimonials
+          - listitem [ref=e362]:
+            - link "NoCowboys Perks" [ref=e363] [cursor=pointer]:
+              - /url: https://www.nocowboys-perks.co.nz/
+      - generic [ref=e364]:
+        - strong [ref=e366]: Social
+        - list [ref=e368]:
+          - listitem [ref=e369]:
+            - link "Facebook" [ref=e370] [cursor=pointer]:
+              - /url: http://www.facebook.com/NoCowboysTradieReviews
+          - listitem [ref=e371]:
+            - link "Twitter" [ref=e372] [cursor=pointer]:
+              - /url: http://twitter.com/nocowboys
+          - listitem [ref=e373]:
+            - link "Instagram" [ref=e374] [cursor=pointer]:
+              - /url: https://www.instagram.com/nocowboys
+      - generic [ref=e376]:
+        - paragraph [ref=e377]:
+          - text: All content copyright ©2006-2026, NoCowboys Limited. Read our
+          - link "Terms and Conditions" [ref=e378] [cursor=pointer]:
+            - /url: /terms-conditions
+          - text: .
+        - paragraph [ref=e379]: NoCowboys v.3.0.2098
+  - status
+```
