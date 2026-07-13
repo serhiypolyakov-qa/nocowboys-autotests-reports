@@ -1,0 +1,163 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e6]:
+        - generic [ref=e8]:
+          - text: The
+          - strong [ref=e9]: Original Kiwi Rating Site
+        - generic [ref=e11]:
+          - text: Now with
+          - strong [ref=e12]: 144,946
+          - text: ratings online
+      - navigation [ref=e13]:
+        - generic [ref=e14]:
+          - generic [ref=e15]:
+            - link "." [ref=e16] [cursor=pointer]:
+              - /url: /
+              - img [ref=e17]
+              - img [ref=e21]
+              - generic [ref=e40]: .
+            - generic [ref=e41]: Find Kiwi Tradies & Businesses.
+            - text:  
+          - list [ref=e43]:
+            - listitem [ref=e44]:
+              - link "How it Works" [ref=e45] [cursor=pointer]:
+                - /url: /everyone
+            - listitem [ref=e46]:
+              - link "For Businesses" [ref=e47] [cursor=pointer]:
+                - /url: /businesses
+            - listitem [ref=e48]:
+              - link "Jobs" [ref=e49] [cursor=pointer]:
+                - /url: /new/jobs
+            - listitem [ref=e50]:
+              - link "Blog" [ref=e51] [cursor=pointer]:
+                - /url: /blog
+            - listitem [ref=e52]:
+              - link "Info-zone" [ref=e53] [cursor=pointer]:
+                - /url: /info-zone
+            - listitem [ref=e54]:
+              - link "Bruno F." [ref=e55] [cursor=pointer]:
+                - /url: /customers/account
+                - strong [ref=e56]: Bruno F.
+            - listitem [ref=e57]:
+              - link "" [ref=e58] [cursor=pointer]:
+                - /url: "#"
+      - generic [ref=e59]:
+        - link "NoCowboys" [ref=e61] [cursor=pointer]:
+          - /url: /
+        - generic [ref=e62]: ›
+        - text: My Dashboard
+    - generic [ref=e63]:
+      - heading "Bruno Fernandes" [level=1] [ref=e68]
+      - generic [ref=e69]:
+        - tablist [ref=e72]:
+          - tab "Jobs" [ref=e73] [cursor=pointer]:
+            - generic [ref=e74]: Jobs
+          - tab "Ratings" [ref=e75] [cursor=pointer]:
+            - generic [ref=e76]: Ratings
+          - tab "Favourites" [ref=e77]:
+            - generic [ref=e78]: Favourites
+          - tab "Shared Favourites" [ref=e79] [cursor=pointer]:
+            - generic [ref=e80]: Shared Favourites
+          - tab "Saved Searches" [ref=e81] [cursor=pointer]:
+            - generic [ref=e82]: Saved Searches
+          - tab "Conversations" [ref=e83] [cursor=pointer]:
+            - generic [ref=e84]: Conversations
+          - tab "Account Settings" [ref=e85] [cursor=pointer]:
+            - generic [ref=e86]: Account Settings
+          - listitem [ref=e87]:
+            - link "more_horiz" [ref=e88] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=e89]: more_horiz
+        - tabpanel [ref=e92]:
+          - generic [ref=e96]:
+            - link "Add a favourite business" [ref=e97] [cursor=pointer]:
+              - /url: /search-business
+            - heading "Favourites" [level=2] [ref=e98]
+            - generic [ref=e99]: Nothing to show yet.
+  - contentinfo [ref=e100]:
+    - generic [ref=e101]:
+      - generic [ref=e102]:
+        - strong [ref=e104]: Website
+        - list [ref=e106]:
+          - listitem [ref=e107]:
+            - link "Home" [ref=e108] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e109]:
+            - link "How it Works" [ref=e110] [cursor=pointer]:
+              - /url: /everyone
+          - listitem [ref=e111]:
+            - link "For Businesses" [ref=e112] [cursor=pointer]:
+              - /url: /businesses
+          - listitem [ref=e113]:
+            - link "Jobs" [ref=e114] [cursor=pointer]:
+              - /url: /new/jobs
+          - listitem [ref=e115]:
+            - link "FAQs" [ref=e116] [cursor=pointer]:
+              - /url: /faq
+          - listitem [ref=e117]:
+            - link "Blog" [ref=e118] [cursor=pointer]:
+              - /url: /blog
+          - listitem [ref=e119]:
+            - link "Login" [ref=e120] [cursor=pointer]:
+              - /url: /login
+          - listitem [ref=e121]:
+            - link "NC Websites" [ref=e122] [cursor=pointer]:
+              - /url: /nc-websites
+      - generic [ref=e123]:
+        - strong [ref=e125]: Ratings
+        - list [ref=e127]:
+          - listitem [ref=e128]:
+            - link "Find a Tradie/Business" [ref=e129] [cursor=pointer]:
+              - /url: /#
+          - listitem [ref=e130]:
+            - link "Most Recent Ratings" [ref=e131] [cursor=pointer]:
+              - /url: /recent-ratings
+          - listitem [ref=e132]:
+            - link "Browse All Categories" [ref=e133] [cursor=pointer]:
+              - /url: /category-list
+      - generic [ref=e134]:
+        - strong [ref=e136]: Company
+        - list [ref=e138]:
+          - listitem [ref=e139]:
+            - link "About" [ref=e140] [cursor=pointer]:
+              - /url: /about-us
+          - listitem [ref=e141]:
+            - link "What's in it for Businesses" [ref=e142] [cursor=pointer]:
+              - /url: /why-register
+          - listitem [ref=e143]:
+            - link "Feedback" [ref=e144] [cursor=pointer]:
+              - /url: /contact-us/send-message
+          - listitem [ref=e145]:
+            - link "Contact" [ref=e146] [cursor=pointer]:
+              - /url: /contact-us
+          - listitem [ref=e147]:
+            - link "Testimonials" [ref=e148] [cursor=pointer]:
+              - /url: /testimonials
+          - listitem [ref=e149]:
+            - link "NoCowboys Perks" [ref=e150] [cursor=pointer]:
+              - /url: https://www.nocowboys-perks.co.nz/
+      - generic [ref=e151]:
+        - strong [ref=e153]: Social
+        - list [ref=e155]:
+          - listitem [ref=e156]:
+            - link "Facebook" [ref=e157] [cursor=pointer]:
+              - /url: http://www.facebook.com/NoCowboysTradieReviews
+          - listitem [ref=e158]:
+            - link "Twitter" [ref=e159] [cursor=pointer]:
+              - /url: http://twitter.com/nocowboys
+          - listitem [ref=e160]:
+            - link "Instagram" [ref=e161] [cursor=pointer]:
+              - /url: https://www.instagram.com/nocowboys
+      - generic [ref=e163]:
+        - paragraph [ref=e164]:
+          - text: All content copyright ©2006-2026, NoCowboys Limited. Read our
+          - link "Terms and Conditions" [ref=e165] [cursor=pointer]:
+            - /url: /terms-conditions
+          - text: .
+        - paragraph [ref=e166]: NoCowboys v.3.0.2101
+  - status
+```
