@@ -1,0 +1,178 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e6]:
+        - generic [ref=e8]:
+          - text: The
+          - strong [ref=e9]: Original Kiwi Rating Site
+        - generic [ref=e11]:
+          - text: Now with
+          - strong [ref=e12]: 144,941
+          - text: ratings online
+      - navigation [ref=e13]:
+        - generic [ref=e14]:
+          - generic [ref=e15]:
+            - link "." [ref=e16] [cursor=pointer]:
+              - /url: /
+              - img [ref=e17]
+              - img [ref=e21]
+              - generic [ref=e40]: .
+            - generic [ref=e41]: Find Kiwi Tradies & Businesses.
+            - text:  
+          - list [ref=e43]:
+            - listitem [ref=e44]:
+              - link "How it Works" [ref=e45] [cursor=pointer]:
+                - /url: /everyone
+            - listitem [ref=e46]:
+              - link "For Businesses" [ref=e47] [cursor=pointer]:
+                - /url: /businesses
+            - listitem [ref=e48]:
+              - link "Jobs" [ref=e49] [cursor=pointer]:
+                - /url: /new/jobs
+            - listitem [ref=e50]:
+              - link "Blog" [ref=e51] [cursor=pointer]:
+                - /url: /blog
+            - listitem [ref=e52]:
+              - link "Info-zone" [ref=e53] [cursor=pointer]:
+                - /url: /info-zone
+            - listitem [ref=e54]:
+              - link "Bruno F." [ref=e55] [cursor=pointer]:
+                - /url: /customers/account
+                - strong [ref=e56]: Bruno F.
+            - listitem [ref=e57]:
+              - link "" [ref=e58] [cursor=pointer]:
+                - /url: "#"
+      - generic [ref=e59]:
+        - link "NoCowboys" [ref=e61] [cursor=pointer]:
+          - /url: /
+        - generic [ref=e62]: ›
+        - text: My Dashboard
+    - generic [ref=e63]:
+      - heading "Bruno Fernandes" [level=1] [ref=e68]
+      - generic [ref=e69]:
+        - tablist [ref=e72]:
+          - tab "Jobs" [ref=e73] [cursor=pointer]:
+            - generic [ref=e74]: Jobs
+          - tab "Ratings" [ref=e75] [cursor=pointer]:
+            - generic [ref=e76]: Ratings
+          - tab "Favourites" [ref=e77] [cursor=pointer]:
+            - generic [ref=e78]: Favourites
+          - tab "Shared Favourites" [ref=e79] [cursor=pointer]:
+            - generic [ref=e80]: Shared Favourites
+          - tab "Saved Searches" [ref=e81] [cursor=pointer]:
+            - generic [ref=e82]: Saved Searches
+          - tab "Conversations" [ref=e83] [cursor=pointer]:
+            - generic [ref=e84]: Conversations
+          - tab "Account Settings" [ref=e85]:
+            - generic [ref=e86]: Account Settings
+          - tab "Subscription Preferences" [ref=e87] [cursor=pointer]:
+            - generic [ref=e88]: Subscription Preferences
+          - tab "Blacklisted Businesses" [ref=e89] [cursor=pointer]:
+            - generic [ref=e90]: Blacklisted Businesses
+        - tabpanel [ref=e93]:
+          - generic [ref=e95]:
+            - heading "Account Settings" [level=2] [ref=e98]
+            - generic [ref=e102]:
+              - tablist [ref=e103]:
+                - tab "Contact & Address Details" [ref=e104] [cursor=pointer]
+                - tab "Password" [ref=e105]
+              - tabpanel [ref=e107]:
+                - heading "Update Password" [level=3] [ref=e108]
+                - generic [ref=e111]:
+                  - generic [ref=e112]:
+                    - generic [ref=e113]: Current Password
+                    - textbox "Current Password" [ref=e114]
+                  - generic [ref=e115]:
+                    - generic [ref=e116]: New Password
+                    - textbox "New Password" [ref=e117]
+                    - paragraph [ref=e118]: Your new password must be at least 8 characters long, with both letters and numbers.
+                  - generic [ref=e119]:
+                    - generic [ref=e120]: Confirm New Password
+                    - textbox "Confirm New Password" [ref=e121]
+                  - button "Save changes" [ref=e123] [cursor=pointer]
+  - contentinfo [ref=e124]:
+    - generic [ref=e125]:
+      - generic [ref=e126]:
+        - strong [ref=e128]: Website
+        - list [ref=e130]:
+          - listitem [ref=e131]:
+            - link "Home" [ref=e132] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e133]:
+            - link "How it Works" [ref=e134] [cursor=pointer]:
+              - /url: /everyone
+          - listitem [ref=e135]:
+            - link "For Businesses" [ref=e136] [cursor=pointer]:
+              - /url: /businesses
+          - listitem [ref=e137]:
+            - link "Jobs" [ref=e138] [cursor=pointer]:
+              - /url: /new/jobs
+          - listitem [ref=e139]:
+            - link "FAQs" [ref=e140] [cursor=pointer]:
+              - /url: /faq
+          - listitem [ref=e141]:
+            - link "Blog" [ref=e142] [cursor=pointer]:
+              - /url: /blog
+          - listitem [ref=e143]:
+            - link "Login" [ref=e144] [cursor=pointer]:
+              - /url: /login
+          - listitem [ref=e145]:
+            - link "NC Websites" [ref=e146] [cursor=pointer]:
+              - /url: /nc-websites
+      - generic [ref=e147]:
+        - strong [ref=e149]: Ratings
+        - list [ref=e151]:
+          - listitem [ref=e152]:
+            - link "Find a Tradie/Business" [ref=e153] [cursor=pointer]:
+              - /url: /#
+          - listitem [ref=e154]:
+            - link "Most Recent Ratings" [ref=e155] [cursor=pointer]:
+              - /url: /recent-ratings
+          - listitem [ref=e156]:
+            - link "Browse All Categories" [ref=e157] [cursor=pointer]:
+              - /url: /category-list
+      - generic [ref=e158]:
+        - strong [ref=e160]: Company
+        - list [ref=e162]:
+          - listitem [ref=e163]:
+            - link "About" [ref=e164] [cursor=pointer]:
+              - /url: /about-us
+          - listitem [ref=e165]:
+            - link "What's in it for Businesses" [ref=e166] [cursor=pointer]:
+              - /url: /why-register
+          - listitem [ref=e167]:
+            - link "Feedback" [ref=e168] [cursor=pointer]:
+              - /url: /contact-us/send-message
+          - listitem [ref=e169]:
+            - link "Contact" [ref=e170] [cursor=pointer]:
+              - /url: /contact-us
+          - listitem [ref=e171]:
+            - link "Testimonials" [ref=e172] [cursor=pointer]:
+              - /url: /testimonials
+          - listitem [ref=e173]:
+            - link "NoCowboys Perks" [ref=e174] [cursor=pointer]:
+              - /url: https://www.nocowboys-perks.co.nz/
+      - generic [ref=e175]:
+        - strong [ref=e177]: Social
+        - list [ref=e179]:
+          - listitem [ref=e180]:
+            - link "Facebook" [ref=e181] [cursor=pointer]:
+              - /url: http://www.facebook.com/NoCowboysTradieReviews
+          - listitem [ref=e182]:
+            - link "Twitter" [ref=e183] [cursor=pointer]:
+              - /url: http://twitter.com/nocowboys
+          - listitem [ref=e184]:
+            - link "Instagram" [ref=e185] [cursor=pointer]:
+              - /url: https://www.instagram.com/nocowboys
+      - generic [ref=e187]:
+        - paragraph [ref=e188]:
+          - text: All content copyright ©2006-2026, NoCowboys Limited. Read our
+          - link "Terms and Conditions" [ref=e189] [cursor=pointer]:
+            - /url: /terms-conditions
+          - text: .
+        - paragraph [ref=e190]: NoCowboys v.3.0.2103
+  - status
+```
