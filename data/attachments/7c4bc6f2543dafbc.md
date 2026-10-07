@@ -1,0 +1,377 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e5]:
+      - generic [ref=e7]:
+        - text: The
+        - strong [ref=e8]: Original Kiwi Rating Site
+      - generic [ref=e10]:
+        - text: Now with
+        - strong [ref=e11]: 144,956
+        - text: ratings online
+    - navigation [ref=e12]:
+      - generic [ref=e13]:
+        - generic [ref=e14]:
+          - link "." [ref=e15] [cursor=pointer]:
+            - /url: /
+            - img [ref=e16]
+            - img [ref=e20]
+            - generic [ref=e39]: .
+          - generic [ref=e40]: Find Kiwi Tradies & Businesses.
+          - text:  
+        - list [ref=e42]:
+          - listitem [ref=e43]:
+            - link "How it Works" [ref=e44] [cursor=pointer]:
+              - /url: /everyone
+          - listitem [ref=e45]:
+            - link "For Businesses" [ref=e46] [cursor=pointer]:
+              - /url: /businesses
+          - listitem [ref=e47]:
+            - link "Jobs" [ref=e48] [cursor=pointer]:
+              - /url: /new/jobs
+          - listitem [ref=e49]:
+            - link "Blog" [ref=e50] [cursor=pointer]:
+              - /url: /blog
+          - listitem [ref=e51]:
+            - link "Info-zone" [ref=e52] [cursor=pointer]:
+              - /url: /info-zone
+          - listitem [ref=e53]:
+            - link "Bruno F." [ref=e54] [cursor=pointer]:
+              - /url: /customers/account
+              - strong [ref=e55]: Bruno F.
+          - listitem [ref=e56]:
+            - link "" [ref=e57] [cursor=pointer]:
+              - /url: "#"
+  - generic [ref=e58]:
+    - generic [ref=e60]:
+      - generic [ref=e64]:
+        - link "NoCowboys" [ref=e66] [cursor=pointer]:
+          - /url: /
+        - generic [ref=e67]: /
+        - link "All categories" [ref=e69] [cursor=pointer]:
+          - /url: /search/wellington-cbd/all-categories
+        - generic [ref=e70]: /
+        - link "Tuition & Coaching" [ref=e72] [cursor=pointer]:
+          - /url: /search/wellington-cbd/tuition-coaching
+        - generic [ref=e73]: /
+        - link "Academic" [ref=e75] [cursor=pointer]:
+          - /url: /search/wellington-cbd/academic
+        - generic [ref=e76]: /
+      - generic [ref=e77]:
+        - generic [ref=e83]: 
+        - generic [ref=e84]:
+          - heading "Greenice Web Development Academic in Wellington CBD" [level=1] [ref=e85]:
+            - text: Greenice Web Development
+            - text: Academic in Wellington CBD
+          - generic [ref=e86]:
+            - generic [ref=e87]:
+              - generic [ref=e88]: 
+              - generic [ref=e89]: 
+              - generic [ref=e90]: 
+              - generic [ref=e91]: 
+              - generic [ref=e92]: 
+            - text: 94.9% approval
+            - link "from 8 authenticated ratings" [ref=e93] [cursor=pointer]:
+              - /url: "#ratings"
+          - tab "Rate this business" [ref=e105] [cursor=pointer]:
+            - generic [ref=e106]: Rate this business
+    - tablist [ref=e112]:
+      - tab "Company Profile" [ref=e113] [cursor=pointer]
+      - tab "NC Authenticated Ratings (8)" [expanded] [ref=e114]
+      - tab "Media (1)" [ref=e115] [cursor=pointer]
+    - generic [ref=e119]:
+      - text:    (optional) (optional) (optional) (optional) (optional) (optional)
+      - tabpanel [ref=e120]:
+        - tablist [ref=e124]:
+          - tab "NoCowboys Authenticated Ratings" [expanded] [ref=e125]: NoCowboys Authenticated Ratings
+        - tabpanel [ref=e127]:
+          - list [ref=e128]:
+            - generic [ref=e130]:
+              - table [ref=e133]:
+                - rowgroup [ref=e134]:
+                  - 'row "Communication: 70%" [ref=e135]':
+                    - cell "Communication:" [ref=e136]
+                    - cell "70%" [ref=e137]
+                  - 'row "Quality: 90%" [ref=e138]':
+                    - cell "Quality:" [ref=e139]
+                    - cell "90%" [ref=e140]
+                  - 'row "Reliability: 100%" [ref=e141]':
+                    - cell "Reliability:" [ref=e142]
+                    - cell "100%" [ref=e143]
+                  - 'row "Value: 80%" [ref=e144]':
+                    - cell "Value:" [ref=e145]
+                    - cell "80%" [ref=e146]
+                  - 'row "Overall: 85%" [ref=e147]':
+                    - cell "Overall:" [ref=e148]:
+                      - strong [ref=e149]: "Overall:"
+                    - cell "85%" [ref=e150]
+              - generic [ref=e152]:
+                - paragraph [ref=e153]: "\"This is Test Comment. NCB-8. Customer leaves a rating for a business using \"Review a business\" form\""
+                - paragraph [ref=e154]: "1 minute and 12 seconds ago • Rating by: Bruno • Contact: Sergio Worker • Job date: Oct, 2026"
+                - generic [ref=e155]:
+                  - link "business-rate-image-4214" [ref=e156] [cursor=pointer]:
+                    - /url: https://staging.nocowboys.co.nz/images/rate/800x600/90/f3af9a8e78e81c5838b5f9640221f48f.png?t=1791343361
+                    - img "business-rate-image-4214" [ref=e158]
+                  - link "business-rate-image-4215" [ref=e159] [cursor=pointer]:
+                    - /url: https://staging.nocowboys.co.nz/images/rate/800x600/90/85f88967f258afeeb1aa7eec9903287f.png?t=1791343361
+                    - img "business-rate-image-4215" [ref=e161]
+                  - link "business-rate-image-4216" [ref=e162] [cursor=pointer]:
+                    - /url: https://staging.nocowboys.co.nz/images/rate/800x600/90/5faf4217fc555520fd4b8115146e8439.png?t=1791343361
+                    - img "business-rate-image-4216" [ref=e164]
+                  - link "business-rate-image-4217" [ref=e165] [cursor=pointer]:
+                    - /url: https://staging.nocowboys.co.nz/images/rate/800x600/90/5ed35b7129b7fe3d7592dd5b3f47cda1.png?t=1791343361
+                    - img "business-rate-image-4217" [ref=e167]
+                  - link "business-rate-image-4218" [ref=e168] [cursor=pointer]:
+                    - /url: https://staging.nocowboys.co.nz/images/rate/800x600/90/d5333ef8ab7945ac11af1fb0d581f7a0.png?t=1791343361
+                    - img "business-rate-image-4218" [ref=e170]
+            - generic [ref=e172]:
+              - table [ref=e175]:
+                - rowgroup [ref=e176]:
+                  - 'row "Communication: 100%" [ref=e177]':
+                    - cell "Communication:" [ref=e178]
+                    - cell "100%" [ref=e179]
+                  - 'row "Quality: 100%" [ref=e180]':
+                    - cell "Quality:" [ref=e181]
+                    - cell "100%" [ref=e182]
+                  - 'row "Reliability: 100%" [ref=e183]':
+                    - cell "Reliability:" [ref=e184]
+                    - cell "100%" [ref=e185]
+                  - 'row "Value: 90%" [ref=e186]':
+                    - cell "Value:" [ref=e187]
+                    - cell "90%" [ref=e188]
+                  - 'row "Overall: 98%" [ref=e189]':
+                    - cell "Overall:" [ref=e190]:
+                      - strong [ref=e191]: "Overall:"
+                    - cell "98%" [ref=e192]
+              - generic [ref=e194]:
+                - paragraph [ref=e195]: "\"Test comment easy flow 2109\""
+                - paragraph [ref=e196]: "22nd Sep • Rating by: Laura Lopes • Contact: Qwedr • Job date: Sep, 2026"
+                - link "business-rate-image-4197" [ref=e198] [cursor=pointer]:
+                  - /url: https://staging.nocowboys.co.nz/images/rate/800x600/90/903fff55d5331e17362f4ee9266bf4db.png?t=1789992198
+                  - img "business-rate-image-4197" [ref=e200]
+            - generic [ref=e202]:
+              - table [ref=e205]:
+                - rowgroup [ref=e206]:
+                  - 'row "Communication: 100%" [ref=e207]':
+                    - cell "Communication:" [ref=e208]
+                    - cell "100%" [ref=e209]
+                  - 'row "Quality: 100%" [ref=e210]':
+                    - cell "Quality:" [ref=e211]
+                    - cell "100%" [ref=e212]
+                  - 'row "Reliability: 100%" [ref=e213]':
+                    - cell "Reliability:" [ref=e214]
+                    - cell "100%" [ref=e215]
+                  - 'row "Value: 100%" [ref=e216]':
+                    - cell "Value:" [ref=e217]
+                    - cell "100%" [ref=e218]
+                  - 'row "Overall: 100%" [ref=e219]':
+                    - cell "Overall:" [ref=e220]:
+                      - strong [ref=e221]: "Overall:"
+                    - cell "100%" [ref=e222]
+              - generic [ref=e224]:
+                - paragraph [ref=e225]: "\"NydamĀ S Plumbing Ltd Ā, Ē, Ī, Ō, Ū іяівівів Sdsdasas , Ī,\""
+                - paragraph [ref=e226]: "18th Sep • Rating by: Serhiy • Contact: Rork • Job date: Sep, 2026"
+                - generic [ref=e228]:
+                  - generic [ref=e229]: "Serhio Poller responded:"
+                  - text: "\"thanks\""
+            - generic [ref=e231]:
+              - table [ref=e234]:
+                - rowgroup [ref=e235]:
+                  - 'row "Communication: 90%" [ref=e236]':
+                    - cell "Communication:" [ref=e237]
+                    - cell "90%" [ref=e238]
+                  - 'row "Quality: 100%" [ref=e239]':
+                    - cell "Quality:" [ref=e240]
+                    - cell "100%" [ref=e241]
+                  - 'row "Reliability: 100%" [ref=e242]':
+                    - cell "Reliability:" [ref=e243]
+                    - cell "100%" [ref=e244]
+                  - 'row "Value: 100%" [ref=e245]':
+                    - cell "Value:" [ref=e246]
+                    - cell "100%" [ref=e247]
+                  - 'row "Overall: 98%" [ref=e248]':
+                    - cell "Overall:" [ref=e249]:
+                      - strong [ref=e250]: "Overall:"
+                    - cell "98%" [ref=e251]
+              - generic [ref=e253]:
+                - paragraph [ref=e254]: "\"Test dexter comment 1009😀\""
+                - paragraph [ref=e255]: "10th Sep • Rating by: Aswed • Contact: Serthg • Job date: Sep, 2026"
+                - generic [ref=e257]:
+                  - generic [ref=e258]: "Serhio Poller responded:"
+                  - text: "\"Test reply 123 1609 edited by admin\""
+            - generic [ref=e260]:
+              - table [ref=e263]:
+                - rowgroup [ref=e264]:
+                  - 'row "Communication: 100%" [ref=e265]':
+                    - cell "Communication:" [ref=e266]
+                    - cell "100%" [ref=e267]
+                  - 'row "Quality: 100%" [ref=e268]':
+                    - cell "Quality:" [ref=e269]
+                    - cell "100%" [ref=e270]
+                  - 'row "Reliability: 100%" [ref=e271]':
+                    - cell "Reliability:" [ref=e272]
+                    - cell "100%" [ref=e273]
+                  - 'row "Value: 100%" [ref=e274]':
+                    - cell "Value:" [ref=e275]
+                    - cell "100%" [ref=e276]
+                  - 'row "Overall: 100%" [ref=e277]':
+                    - cell "Overall:" [ref=e278]:
+                      - strong [ref=e279]: "Overall:"
+                    - cell "100%" [ref=e280]
+              - generic [ref=e282]:
+                - paragraph [ref=e283]: "\"Tester comment after request 0309\""
+                - paragraph [ref=e284]: "4th Sep • Rating by: Serg • Contact: Garry • Job date: Sep, 2026"
+                - generic [ref=e286]:
+                  - generic [ref=e287]: "Serhio Poller responded:"
+                  - text: "\"My reply test \""
+            - generic [ref=e289]:
+              - table [ref=e292]:
+                - rowgroup [ref=e293]:
+                  - 'row "Communication: 100%" [ref=e294]':
+                    - cell "Communication:" [ref=e295]
+                    - cell "100%" [ref=e296]
+                  - 'row "Quality: 90%" [ref=e297]':
+                    - cell "Quality:" [ref=e298]
+                    - cell "90%" [ref=e299]
+                  - 'row "Reliability: 90%" [ref=e300]':
+                    - cell "Reliability:" [ref=e301]
+                    - cell "90%" [ref=e302]
+                  - 'row "Value: 90%" [ref=e303]':
+                    - cell "Value:" [ref=e304]
+                    - cell "90%" [ref=e305]
+                  - 'row "Overall: 93%" [ref=e306]':
+                    - cell "Overall:" [ref=e307]:
+                      - strong [ref=e308]: "Overall:"
+                    - cell "93%" [ref=e309]
+              - generic [ref=e311]:
+                - paragraph [ref=e312]: "\"test 1007\""
+                - paragraph [ref=e313]: "11th Jul • Rating by: asdasdasd • Contact: asdasdasd • Job date: Jul, 2026"
+            - generic [ref=e315]:
+              - table [ref=e318]:
+                - rowgroup [ref=e319]:
+                  - 'row "Communication: 70%" [ref=e320]':
+                    - cell "Communication:" [ref=e321]
+                    - cell "70%" [ref=e322]
+                  - 'row "Quality: 90%" [ref=e323]':
+                    - cell "Quality:" [ref=e324]
+                    - cell "90%" [ref=e325]
+                  - 'row "Reliability: 100%" [ref=e326]':
+                    - cell "Reliability:" [ref=e327]
+                    - cell "100%" [ref=e328]
+                  - 'row "Value: 80%" [ref=e329]':
+                    - cell "Value:" [ref=e330]
+                    - cell "80%" [ref=e331]
+                  - 'row "Overall: 85%" [ref=e332]':
+                    - cell "Overall:" [ref=e333]:
+                      - strong [ref=e334]: "Overall:"
+                    - cell "85%" [ref=e335]
+              - generic [ref=e337]:
+                - paragraph [ref=e338]: "\"This is test comment from 2204\""
+                - paragraph [ref=e339]: "22nd Apr • Rating by: Serh • Contact: Serhii • Job date: Apr, 2026"
+            - generic [ref=e341]:
+              - table [ref=e344]:
+                - rowgroup [ref=e345]:
+                  - 'row "Communication: 100%" [ref=e346]':
+                    - cell "Communication:" [ref=e347]
+                    - cell "100%" [ref=e348]
+                  - 'row "Quality: 100%" [ref=e349]':
+                    - cell "Quality:" [ref=e350]
+                    - cell "100%" [ref=e351]
+                  - 'row "Reliability: 100%" [ref=e352]':
+                    - cell "Reliability:" [ref=e353]
+                    - cell "100%" [ref=e354]
+                  - 'row "Value: 100%" [ref=e355]':
+                    - cell "Value:" [ref=e356]
+                    - cell "100%" [ref=e357]
+                  - 'row "Overall: 100%" [ref=e358]':
+                    - cell "Overall:" [ref=e359]:
+                      - strong [ref=e360]: "Overall:"
+                    - cell "100%" [ref=e361]
+              - generic [ref=e363]:
+                - paragraph [ref=e364]: "\"Good service. Thanks\""
+                - paragraph [ref=e365]: "8th May, 2024 • Rating by: Serg • Contact: Serhio • Job date: May, 2024"
+  - contentinfo [ref=e366]:
+    - generic [ref=e367]:
+      - generic [ref=e368]:
+        - strong [ref=e370]: Website
+        - list [ref=e372]:
+          - listitem [ref=e373]:
+            - link "Home" [ref=e374] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e375]:
+            - link "How it Works" [ref=e376] [cursor=pointer]:
+              - /url: /everyone
+          - listitem [ref=e377]:
+            - link "For Businesses" [ref=e378] [cursor=pointer]:
+              - /url: /businesses
+          - listitem [ref=e379]:
+            - link "Jobs" [ref=e380] [cursor=pointer]:
+              - /url: /new/jobs
+          - listitem [ref=e381]:
+            - link "FAQs" [ref=e382] [cursor=pointer]:
+              - /url: /faq
+          - listitem [ref=e383]:
+            - link "Blog" [ref=e384] [cursor=pointer]:
+              - /url: /blog
+          - listitem [ref=e385]:
+            - link "Login" [ref=e386] [cursor=pointer]:
+              - /url: /login
+          - listitem [ref=e387]:
+            - link "NC Websites" [ref=e388] [cursor=pointer]:
+              - /url: /nc-websites
+      - generic [ref=e389]:
+        - strong [ref=e391]: Ratings
+        - list [ref=e393]:
+          - listitem [ref=e394]:
+            - link "Find a Tradie/Business" [ref=e395] [cursor=pointer]:
+              - /url: /#
+          - listitem [ref=e396]:
+            - link "Most Recent Ratings" [ref=e397] [cursor=pointer]:
+              - /url: /recent-ratings
+          - listitem [ref=e398]:
+            - link "Browse All Categories" [ref=e399] [cursor=pointer]:
+              - /url: /category-list
+      - generic [ref=e400]:
+        - strong [ref=e402]: Company
+        - list [ref=e404]:
+          - listitem [ref=e405]:
+            - link "About" [ref=e406] [cursor=pointer]:
+              - /url: /about-us
+          - listitem [ref=e407]:
+            - link "What's in it for Businesses" [ref=e408] [cursor=pointer]:
+              - /url: /why-register
+          - listitem [ref=e409]:
+            - link "Feedback" [ref=e410] [cursor=pointer]:
+              - /url: /contact-us/send-message
+          - listitem [ref=e411]:
+            - link "Contact" [ref=e412] [cursor=pointer]:
+              - /url: /contact-us
+          - listitem [ref=e413]:
+            - link "Testimonials" [ref=e414] [cursor=pointer]:
+              - /url: /testimonials
+          - listitem [ref=e415]:
+            - link "NoCowboys Perks" [ref=e416] [cursor=pointer]:
+              - /url: https://www.nocowboys-perks.co.nz/
+      - generic [ref=e417]:
+        - strong [ref=e419]: Social
+        - list [ref=e421]:
+          - listitem [ref=e422]:
+            - link "Facebook" [ref=e423] [cursor=pointer]:
+              - /url: http://www.facebook.com/NoCowboysTradieReviews
+          - listitem [ref=e424]:
+            - link "Twitter" [ref=e425] [cursor=pointer]:
+              - /url: http://twitter.com/nocowboys
+          - listitem [ref=e426]:
+            - link "Instagram" [ref=e427] [cursor=pointer]:
+              - /url: https://www.instagram.com/nocowboys
+      - generic [ref=e429]:
+        - paragraph [ref=e430]:
+          - text: All content copyright ©2006-2026, NoCowboys Limited. Read our
+          - link "Terms and Conditions" [ref=e431] [cursor=pointer]:
+            - /url: /terms-conditions
+          - text: .
+        - paragraph [ref=e432]: NoCowboys v.3.0.2126
+  - status
+```
