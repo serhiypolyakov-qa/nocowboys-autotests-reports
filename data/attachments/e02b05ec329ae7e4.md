@@ -1,0 +1,305 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - navigation [ref=e4]:
+        - generic [ref=e5]:
+          - generic [ref=e6]:
+            - link "." [ref=e7] [cursor=pointer]:
+              - /url: /
+              - img [ref=e9]
+              - img [ref=e13]
+              - generic [ref=e32]: .
+            - generic [ref=e33]: Customer Ratings & Reputation Management
+            - text: 
+          - list [ref=e35]:
+            - listitem [ref=e36]:
+              - link "Serhio P." [ref=e37] [cursor=pointer]:
+                - /url: /business
+                - strong [ref=e38]: Serhio P.
+    - generic [ref=e39]:
+      - generic [ref=e41]: Your business profile is currently active, visible to the public and appearing in search results.
+      - generic [ref=e43]:
+        - heading "What's next?" [level=2] [ref=e46]
+        - generic [ref=e47]:
+          - generic [ref=e49]:
+            - generic [ref=e50] [cursor=pointer]: ×
+            - heading "Continue setting up your business profile" [level=3] [ref=e51]
+            - paragraph [ref=e53]:
+              - link "Update your business profile" [ref=e54] [cursor=pointer]:
+                - /url: /business/profile
+              - text: with more comprehensive info about your specialties and service areas.
+          - generic [ref=e56]:
+            - generic [ref=e57] [cursor=pointer]: ×
+            - heading "Final test" [level=3] [ref=e58]
+            - generic [ref=e59]:
+              - paragraph [ref=e60]: Request review test!
+              - paragraph [ref=e61]
+          - generic [ref=e63]:
+            - generic [ref=e64] [cursor=pointer]: ×
+            - heading "Member-only deals" [level=3] [ref=e65]
+            - generic [ref=e66]:
+              - text: Exclusive discounts from Bunnings, on fuel, and other business essentials.
+              - link "See deals" [ref=e67] [cursor=pointer]:
+                - /url: https://www.nocowboys-perks.co.nz/
+      - generic [ref=e70]:
+        - heading "Greenice Web Development" [level=1] [ref=e72]
+        - generic [ref=e74]:
+          - text: "Account: Active"
+          - text: "Payment due date: 16 Jun 2032"
+      - generic [ref=e75]:
+        - tablist [ref=e78]:
+          - tab "Dashboard" [ref=e79] [cursor=pointer]:
+            - generic [ref=e80]: Dashboard
+          - tab "Business Profile" [ref=e81] [cursor=pointer]:
+            - generic [ref=e82]: Business Profile
+          - tab "Ratings" [ref=e83]:
+            - generic [ref=e84]: Ratings
+          - tab "Badges" [ref=e85] [cursor=pointer]:
+            - generic [ref=e86]: Badges
+          - tab "Messages 121" [ref=e87] [cursor=pointer]:
+            - generic [ref=e88]:
+              - text: Messages
+              - generic "121" [ref=e89]
+          - tab "Jobs" [ref=e90] [cursor=pointer]:
+            - generic [ref=e91]: Jobs
+          - tab "Support" [ref=e92] [cursor=pointer]:
+            - generic [ref=e93]: Support
+          - tab "Store" [ref=e94] [cursor=pointer]:
+            - generic [ref=e95]: Store
+          - tab "Conversations" [ref=e96] [cursor=pointer]:
+            - generic [ref=e97]: Conversations
+          - tab "Account Settings" [ref=e98] [cursor=pointer]:
+            - generic [ref=e99]: Account Settings
+          - tab "Pay Here" [ref=e100] [cursor=pointer]:
+            - generic [ref=e101]: Pay Here
+        - tabpanel [ref=e104]:
+          - generic [ref=e106]:
+            - heading "Ratings" [level=2] [ref=e109]
+            - generic [ref=e113]:
+              - tablist [ref=e114]:
+                - tab "Ratings for Greenice Web Development" [ref=e115]
+                - tab "Rating Request Dashboard" [ref=e116] [cursor=pointer]
+                - tab "Review QR Code" [ref=e117] [cursor=pointer]
+              - tabpanel [ref=e119]:
+                - generic [ref=e120]:
+                  - generic [ref=e123]:
+                    - generic [ref=e124]: search
+                    - textbox "Search" [ref=e125]
+                  - generic [ref=e128]:
+                    - generic [ref=e129]: "Unauthenticated ratings: 1"
+                    - button "Resend authentication" [ref=e131] [cursor=pointer]
+                - grid [ref=e132]:
+                  - table [ref=e133]:
+                    - rowgroup [ref=e134]:
+                      - 'row "Date: activate to sort column ascending &nbsp;&nbsp;%: activate to sort column ascending Reviewer: activate to sort column ascending Comment: activate to sort column ascending Auth.: activate to sort column ascending Actions" [ref=e135]':
+                        - 'columnheader "Date: activate to sort column ascending" [ref=e136] [cursor=pointer]': Date
+                        - 'columnheader "&nbsp;&nbsp;%: activate to sort column ascending" [ref=e137] [cursor=pointer]': "%"
+                        - 'columnheader "Reviewer: activate to sort column ascending" [ref=e138] [cursor=pointer]': Reviewer
+                        - 'columnheader "Comment: activate to sort column ascending" [ref=e139] [cursor=pointer]': Comment
+                        - 'columnheader "Auth.: activate to sort column ascending" [ref=e140] [cursor=pointer]': Auth.
+                        - columnheader "Actions" [ref=e141] [cursor=pointer]
+                    - rowgroup [ref=e142]:
+                      - row [ref=e143]:
+                        - columnheader [ref=e144]
+                        - columnheader [ref=e145]
+                        - columnheader [ref=e146]
+                        - columnheader [ref=e147]
+                        - columnheader [ref=e148]
+                        - columnheader [ref=e149]
+                    - alert [ref=e150]:
+                      - row "07-10-2026 85% Bruno This is Test Comment. NCB-8. Customer leaves a rating for a business using \"Review a business\" form Y Reply Request further info" [ref=e151]:
+                        - cell "07-10-2026" [ref=e152]
+                        - cell "85%" [ref=e153]
+                        - cell "Bruno" [ref=e154]
+                        - cell "This is Test Comment. NCB-8. Customer leaves a rating for a business using \"Review a business\" form" [ref=e155]: This is Test Comment. NCB-8. Customer leaves a rating for a business using "Review a business" form
+                        - cell "Y" [ref=e156]
+                        - cell "Reply Request further info" [ref=e157]:
+                          - link "Reply" [ref=e158] [cursor=pointer]:
+                            - /url: "#"
+                          - link "Request further info" [ref=e159] [cursor=pointer]:
+                            - /url: "#"
+                      - row "22-09-2026 98% Laura Lopes Test comment easy flow 2109 Y Reply Request further info" [ref=e160]:
+                        - cell "22-09-2026" [ref=e161]
+                        - cell "98%" [ref=e162]
+                        - cell "Laura Lopes" [ref=e163]
+                        - cell "Test comment easy flow 2109" [ref=e164]: Test comment easy flow 2109
+                        - cell "Y" [ref=e165]
+                        - cell "Reply Request further info" [ref=e166]:
+                          - link "Reply" [ref=e167] [cursor=pointer]:
+                            - /url: "#"
+                          - link "Request further info" [ref=e168] [cursor=pointer]:
+                            - /url: "#"
+                      - row "18-09-2026 100% Serhiy NydamĀ S Plumbing Ltd Ā, Ē, Ī, Ō, Ū іяівівів Sdsdasas , Ī, Y One reply (you can only leave one). Request further info" [ref=e169]:
+                        - cell "18-09-2026" [ref=e170]
+                        - cell "100%" [ref=e171]
+                        - cell "Serhiy" [ref=e172]
+                        - cell "NydamĀ S Plumbing Ltd Ā, Ē, Ī, Ō, Ū іяівівів Sdsdasas , Ī," [ref=e173]: NydamĀ S Plumbing Ltd Ā, Ē, Ī, Ō, Ū іяівівів Sdsdasas , Ī,
+                        - cell "Y" [ref=e174]
+                        - cell "One reply (you can only leave one). Request further info" [ref=e175]:
+                          - text: One
+                          - link "reply" [ref=e176] [cursor=pointer]:
+                            - /url: "#"
+                          - text: (you can only leave one).
+                          - link "Request further info" [ref=e177] [cursor=pointer]:
+                            - /url: "#"
+                      - row "10-09-2026 98% Aswed Test dexter comment 1009😀 Y One reply (you can only leave one). More information requested and received – rating reinstated" [ref=e178]:
+                        - cell "10-09-2026" [ref=e179]
+                        - cell "98%" [ref=e180]
+                        - cell "Aswed" [ref=e181]
+                        - cell "Test dexter comment 1009😀" [ref=e182]: Test dexter comment 1009😀
+                        - cell "Y" [ref=e183]
+                        - cell "One reply (you can only leave one). More information requested and received – rating reinstated" [ref=e184]:
+                          - text: One
+                          - link "reply" [ref=e185] [cursor=pointer]:
+                            - /url: "#"
+                          - text: (you can only leave one).
+                          - text: More information requested and received – rating reinstated
+                      - row "04-09-2026 100% Serg Tester comment after request 0309 Y One reply (you can only leave one). Request further info" [ref=e186]:
+                        - cell "04-09-2026" [ref=e187]
+                        - cell "100%" [ref=e188]
+                        - cell "Serg" [ref=e189]
+                        - cell "Tester comment after request 0309" [ref=e190]: Tester comment after request 0309
+                        - cell "Y" [ref=e191]
+                        - cell "One reply (you can only leave one). Request further info" [ref=e192]:
+                          - text: One
+                          - link "reply" [ref=e193] [cursor=pointer]:
+                            - /url: "#"
+                          - text: (you can only leave one).
+                          - link "Request further info" [ref=e194] [cursor=pointer]:
+                            - /url: "#"
+                      - row "11-07-2026 93% asdasdasd test 1007 Y Reply Request further info" [ref=e195]:
+                        - cell "11-07-2026" [ref=e196]
+                        - cell "93%" [ref=e197]
+                        - cell "asdasdasd" [ref=e198]
+                        - cell "test 1007" [ref=e199]: test 1007
+                        - cell "Y" [ref=e200]
+                        - cell "Reply Request further info" [ref=e201]:
+                          - link "Reply" [ref=e202] [cursor=pointer]:
+                            - /url: "#"
+                          - link "Request further info" [ref=e203] [cursor=pointer]:
+                            - /url: "#"
+                      - row "22-04-2026 85% Serh This is test comment from 2204 Y Reply Request further info" [ref=e204]:
+                        - cell "22-04-2026" [ref=e205]
+                        - cell "85%" [ref=e206]
+                        - cell "Serh" [ref=e207]
+                        - cell "This is test comment from 2204" [ref=e208]: This is test comment from 2204
+                        - cell "Y" [ref=e209]
+                        - cell "Reply Request further info" [ref=e210]:
+                          - link "Reply" [ref=e211] [cursor=pointer]:
+                            - /url: "#"
+                          - link "Request further info" [ref=e212] [cursor=pointer]:
+                            - /url: "#"
+                      - row "11-03-2026 100% TestUser Test rating with newsletter opt-in. Testing timing performance. N Resend auth request" [ref=e213]:
+                        - cell "11-03-2026" [ref=e214]
+                        - cell "100%" [ref=e215]
+                        - cell "TestUser" [ref=e216]
+                        - cell "Test rating with newsletter opt-in. Testing timing performance." [ref=e217]: Test rating with newsletter opt-in. Testing timing performance.
+                        - cell "N" [ref=e218]
+                        - cell "Resend auth request" [ref=e219]:
+                          - link "Resend auth request" [ref=e220] [cursor=pointer]:
+                            - /url: ""
+                      - row "08-05-2024 100% Serg Good service. Thanks Y You can only reply within two years of a rating You can only query authenticity within two years of a rating" [ref=e221]:
+                        - cell "08-05-2024" [ref=e222]
+                        - cell "100%" [ref=e223]
+                        - cell "Serg" [ref=e224]
+                        - cell "Good service. Thanks" [ref=e225]: Good service. Thanks
+                        - cell "Y" [ref=e226]
+                        - cell "You can only reply within two years of a rating You can only query authenticity within two years of a rating" [ref=e227]:
+                          - text: You can only reply within two years of a rating
+                          - text: You can only query authenticity within two years of a rating
+                      - row "09-02-2024 100% Serhiy T good work, the job finished on time N" [ref=e228]:
+                        - cell "09-02-2024" [ref=e229]
+                        - cell "100%" [ref=e230]
+                        - cell "Serhiy" [ref=e231]
+                        - cell "T good work, the job finished on time" [ref=e232]: T good work, the job finished on time
+                        - cell "N" [ref=e233]
+                        - cell [ref=e234]
+                  - generic [ref=e235]: Showing 1 to 10 of 10 entries
+                  - generic [ref=e236]:
+                    - button "Previous" [ref=e237] [cursor=pointer]
+                    - button "Next" [ref=e238] [cursor=pointer]
+  - contentinfo [ref=e239]:
+    - generic [ref=e240]:
+      - generic [ref=e241]:
+        - strong [ref=e243]: Website
+        - list [ref=e245]:
+          - listitem [ref=e246]:
+            - link "Home" [ref=e247] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e248]:
+            - link "How it Works" [ref=e249] [cursor=pointer]:
+              - /url: /everyone
+          - listitem [ref=e250]:
+            - link "For Businesses" [ref=e251] [cursor=pointer]:
+              - /url: /businesses
+          - listitem [ref=e252]:
+            - link "Jobs" [ref=e253] [cursor=pointer]:
+              - /url: /new/jobs
+          - listitem [ref=e254]:
+            - link "FAQs" [ref=e255] [cursor=pointer]:
+              - /url: /faq
+          - listitem [ref=e256]:
+            - link "Blog" [ref=e257] [cursor=pointer]:
+              - /url: /blog
+          - listitem [ref=e258]:
+            - link "Login" [ref=e259] [cursor=pointer]:
+              - /url: /login
+          - listitem [ref=e260]:
+            - link "NC Websites" [ref=e261] [cursor=pointer]:
+              - /url: /nc-websites
+      - generic [ref=e262]:
+        - strong [ref=e264]: Ratings
+        - list [ref=e266]:
+          - listitem [ref=e267]:
+            - link "Find a Tradie/Business" [ref=e268] [cursor=pointer]:
+              - /url: /#
+          - listitem [ref=e269]:
+            - link "Most Recent Ratings" [ref=e270] [cursor=pointer]:
+              - /url: /recent-ratings
+          - listitem [ref=e271]:
+            - link "Browse All Categories" [ref=e272] [cursor=pointer]:
+              - /url: /category-list
+      - generic [ref=e273]:
+        - strong [ref=e275]: Company
+        - list [ref=e277]:
+          - listitem [ref=e278]:
+            - link "About" [ref=e279] [cursor=pointer]:
+              - /url: /about-us
+          - listitem [ref=e280]:
+            - link "What's in it for Businesses" [ref=e281] [cursor=pointer]:
+              - /url: /why-register
+          - listitem [ref=e282]:
+            - link "Feedback" [ref=e283] [cursor=pointer]:
+              - /url: /contact-us/send-message
+          - listitem [ref=e284]:
+            - link "Contact" [ref=e285] [cursor=pointer]:
+              - /url: /contact-us
+          - listitem [ref=e286]:
+            - link "Testimonials" [ref=e287] [cursor=pointer]:
+              - /url: /testimonials
+          - listitem [ref=e288]:
+            - link "NoCowboys Perks" [ref=e289] [cursor=pointer]:
+              - /url: https://www.nocowboys-perks.co.nz/
+      - generic [ref=e290]:
+        - strong [ref=e292]: Social
+        - list [ref=e294]:
+          - listitem [ref=e295]:
+            - link "Facebook" [ref=e296] [cursor=pointer]:
+              - /url: http://www.facebook.com/NoCowboysTradieReviews
+          - listitem [ref=e297]:
+            - link "Twitter" [ref=e298] [cursor=pointer]:
+              - /url: http://twitter.com/nocowboys
+          - listitem [ref=e299]:
+            - link "Instagram" [ref=e300] [cursor=pointer]:
+              - /url: https://www.instagram.com/nocowboys
+      - generic [ref=e302]:
+        - paragraph [ref=e303]:
+          - text: All content copyright ©2006-2026, NoCowboys Limited. Read our
+          - link "Terms and Conditions" [ref=e304] [cursor=pointer]:
+            - /url: /terms-conditions
+          - text: .
+        - paragraph [ref=e305]: NoCowboys v.3.0.2126
+```
