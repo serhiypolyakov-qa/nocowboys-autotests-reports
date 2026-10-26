@@ -1,0 +1,161 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e5]:
+      - generic [ref=e7]:
+        - text: The
+        - strong [ref=e8]: Original Kiwi Rating Site
+      - generic [ref=e10]:
+        - text: Now with
+        - strong [ref=e11]: 144,959
+        - text: ratings online
+    - navigation [ref=e12]:
+      - generic [ref=e14]:
+        - link "." [ref=e15] [cursor=pointer]:
+          - /url: /
+          - img [ref=e16]
+          - img [ref=e20]
+          - generic [ref=e39]: .
+        - generic [ref=e40]: Find Kiwi Tradies & Businesses.
+        - text:  
+  - generic [ref=e41]:
+    - heading "It's time to join thousands of other Kiwi businesses and leverage the power of NoCowboys to build your reputation and grow your customer base." [level=2] [ref=e44]
+    - generic [ref=e45]:
+      - generic [ref=e46]:
+        - paragraph [ref=e47]:
+          - strong [ref=e48]: Step 1
+        - paragraph [ref=e49]: Create a business account
+      - generic [ref=e50]:
+        - paragraph [ref=e51]:
+          - strong [ref=e52]: Step 2
+        - paragraph [ref=e53]: Business details
+      - generic [ref=e54]:
+        - paragraph [ref=e55]:
+          - strong [ref=e56]: Step 3
+        - paragraph [ref=e57]: Sign-up complete
+    - generic [ref=e59]:
+      - heading "Create a Business Account on NoCowboys" [level=1] [ref=e60]
+      - paragraph [ref=e61]: Share some basic details with us and we'll get you set up.
+      - paragraph [ref=e62]:
+        - text: Already registered? Login
+        - link "here" [ref=e63] [cursor=pointer]:
+          - /url: /login
+    - generic [ref=e65]:
+      - generic [ref=e66]:
+        - generic [ref=e67]:
+          - generic [ref=e68]: Business name
+          - textbox "Business name" [ref=e70]: CursorTestBusiness4811
+        - group [ref=e71]:
+          - generic [ref=e72]:
+            - generic [ref=e73]: Primary contact first name
+            - textbox "Primary contact first name" [ref=e75]
+          - generic [ref=e76]:
+            - generic [ref=e77]: Last name
+            - textbox "Last name" [ref=e79]
+        - group "Primary contact phone number – including area code" [ref=e80]:
+          - generic [ref=e81]: Primary contact phone number – including area code
+          - generic [ref=e82]:
+            - generic [ref=e83]: Primary contact phone area code
+            - textbox "Primary contact phone area code" [ref=e84]
+          - generic [ref=e85]:
+            - generic [ref=e86]: Primary contact phone number
+            - textbox "Primary contact phone number" [ref=e88]
+        - generic [ref=e89]:
+          - generic [ref=e90]: Business email address – we'll send you a message to confirm
+          - textbox "Business email address – we'll send you a message to confirm" [ref=e92]
+        - generic [ref=e93]:
+          - generic [ref=e94]: Password – 8 characters minimum
+          - textbox "Password – 8 characters minimum" [ref=e96]
+        - generic [ref=e97]:
+          - generic [ref=e98]: Retype the password
+          - textbox "Retype the password" [ref=e100]
+        - generic [ref=e102]:
+          - checkbox "I confirm that I have answered all questions truthfully" [ref=e103]
+          - text: I confirm that I have answered all questions truthfully
+        - generic [ref=e105]:
+          - button "Confirm my email address" [disabled]
+      - paragraph [ref=e106]: "Paid registration alone does not provide access to reply to jobs. Businesses must qualify for Customer Preferred status: at least 5 NoCowboys reviews, an overall rating of 85% or higher, and a review within the previous 6 months."
+  - contentinfo [ref=e107]:
+    - generic [ref=e108]:
+      - generic [ref=e109]:
+        - strong [ref=e111]: Website
+        - list [ref=e113]:
+          - listitem [ref=e114]:
+            - link "Home" [ref=e115] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e116]:
+            - link "How it Works" [ref=e117] [cursor=pointer]:
+              - /url: /everyone
+          - listitem [ref=e118]:
+            - link "For Businesses" [ref=e119] [cursor=pointer]:
+              - /url: /businesses
+          - listitem [ref=e120]:
+            - link "Jobs" [ref=e121] [cursor=pointer]:
+              - /url: /new/jobs
+          - listitem [ref=e122]:
+            - link "FAQs" [ref=e123] [cursor=pointer]:
+              - /url: /faq
+          - listitem [ref=e124]:
+            - link "Blog" [ref=e125] [cursor=pointer]:
+              - /url: /blog
+          - listitem [ref=e126]:
+            - link "Login" [ref=e127] [cursor=pointer]:
+              - /url: /login
+          - listitem [ref=e128]:
+            - link "NC Websites" [ref=e129] [cursor=pointer]:
+              - /url: /nc-websites
+      - generic [ref=e130]:
+        - strong [ref=e132]: Ratings
+        - list [ref=e134]:
+          - listitem [ref=e135]:
+            - link "Find a Tradie/Business" [ref=e136] [cursor=pointer]:
+              - /url: /#
+          - listitem [ref=e137]:
+            - link "Most Recent Ratings" [ref=e138] [cursor=pointer]:
+              - /url: /recent-ratings
+          - listitem [ref=e139]:
+            - link "Browse All Categories" [ref=e140] [cursor=pointer]:
+              - /url: /category-list
+      - generic [ref=e141]:
+        - strong [ref=e143]: Company
+        - list [ref=e145]:
+          - listitem [ref=e146]:
+            - link "About" [ref=e147] [cursor=pointer]:
+              - /url: /about-us
+          - listitem [ref=e148]:
+            - link "What's in it for Businesses" [ref=e149] [cursor=pointer]:
+              - /url: /why-register
+          - listitem [ref=e150]:
+            - link "Feedback" [ref=e151] [cursor=pointer]:
+              - /url: /contact-us/send-message
+          - listitem [ref=e152]:
+            - link "Contact" [ref=e153] [cursor=pointer]:
+              - /url: /contact-us
+          - listitem [ref=e154]:
+            - link "Testimonials" [ref=e155] [cursor=pointer]:
+              - /url: /testimonials
+          - listitem [ref=e156]:
+            - link "NoCowboys Perks" [ref=e157] [cursor=pointer]:
+              - /url: https://www.nocowboys-perks.co.nz/
+      - generic [ref=e158]:
+        - strong [ref=e160]: Social
+        - list [ref=e162]:
+          - listitem [ref=e163]:
+            - link "Facebook" [ref=e164] [cursor=pointer]:
+              - /url: http://www.facebook.com/NoCowboysTradieReviews
+          - listitem [ref=e165]:
+            - link "Twitter" [ref=e166] [cursor=pointer]:
+              - /url: http://twitter.com/nocowboys
+          - listitem [ref=e167]:
+            - link "Instagram" [ref=e168] [cursor=pointer]:
+              - /url: https://www.instagram.com/nocowboys
+      - generic [ref=e170]:
+        - paragraph [ref=e171]:
+          - text: All content copyright ©2006-2026, NoCowboys Limited. Read our
+          - link "Terms and Conditions" [ref=e172] [cursor=pointer]:
+            - /url: /terms-conditions
+          - text: .
+        - paragraph [ref=e173]: NoCowboys v.3.0.2126
+```
