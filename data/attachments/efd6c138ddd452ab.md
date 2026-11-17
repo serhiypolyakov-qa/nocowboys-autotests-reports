@@ -1,0 +1,251 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e5]:
+      - generic [ref=e7]:
+        - text: The
+        - strong [ref=e8]: Original Kiwi Rating Site
+      - generic [ref=e10]:
+        - text: Now with
+        - strong [ref=e11]: 144,940
+        - text: ratings online
+    - navigation [ref=e12]:
+      - generic [ref=e13]:
+        - generic [ref=e14]:
+          - link "." [ref=e15] [cursor=pointer]:
+            - /url: /
+            - img [ref=e16]
+            - img [ref=e20]
+            - generic [ref=e39]: .
+          - generic [ref=e40]: Find Kiwi Tradies & Businesses.
+          - text:  
+        - list [ref=e42]:
+          - listitem [ref=e43]:
+            - link "How it Works" [ref=e44] [cursor=pointer]:
+              - /url: /everyone
+          - listitem [ref=e45]:
+            - link "For Businesses" [ref=e46] [cursor=pointer]:
+              - /url: /businesses
+          - listitem [ref=e47]:
+            - link "Jobs" [ref=e48] [cursor=pointer]:
+              - /url: /new/jobs
+          - listitem [ref=e49]:
+            - link "Blog" [ref=e50] [cursor=pointer]:
+              - /url: /blog
+          - listitem [ref=e51]:
+            - link "Info-zone" [ref=e52] [cursor=pointer]:
+              - /url: /info-zone
+          - listitem [ref=e53]:
+            - link "Bruno F. – Wellington CBD" [ref=e54] [cursor=pointer]:
+              - /url: /customers/account
+              - strong [ref=e55]: Bruno F. – Wellington CBD
+          - listitem [ref=e56]:
+            - link "" [ref=e57] [cursor=pointer]:
+              - /url: "#"
+    - generic [ref=e59]:
+      - generic [ref=e62] [cursor=pointer]:
+        - generic [ref=e63]: Academic
+        - textbox [ref=e64]
+      - generic [ref=e67] [cursor=pointer]:
+        - generic [ref=e68]: Wellington CBD
+        - textbox [ref=e69]
+      - button "Show Results" [ref=e71] [cursor=pointer]
+    - generic [ref=e72]:
+      - link "NoCowboys" [ref=e74] [cursor=pointer]:
+        - /url: /
+      - generic [ref=e75]: ›
+      - link "All categories" [ref=e77] [cursor=pointer]:
+        - /url: /search/wellington-cbd/all-categories
+      - generic [ref=e78]: ›
+      - link "Tuition & Coaching" [ref=e80] [cursor=pointer]:
+        - /url: /search/wellington-cbd/tuition-coaching
+      - generic [ref=e81]: ›
+      - text: Academic in Wellington CBD
+  - generic [ref=e82]:
+    - generic [ref=e83]:
+      - heading "Academic businesses near Wellington CBD, New Zealand" [level=1] [ref=e84]
+      - generic [ref=e87]:
+        - strong [ref=e89]: 3 results.
+        - generic [ref=e90]:
+          - generic [ref=e91]: "Sort by:"
+          - textbox "Sort results by" [ref=e94] [cursor=pointer]
+        - group [ref=e95]:
+          - generic [ref=e97] [cursor=pointer]:
+            - checkbox "Show businesses with recent reviews" [ref=e98]
+            - text: Show businesses with recent reviews
+          - generic [ref=e100] [cursor=pointer]:
+            - checkbox "Show unregistered businesses" [checked] [ref=e101]
+            - text: Show unregistered businesses
+        - button "Save this search to my dashboard" [ref=e103] [cursor=pointer]
+      - list [ref=e106]:
+        - listitem [ref=e107]:
+          - generic [ref=e108]:
+            - heading "Euroasia" [level=3] [ref=e109]:
+              - link "Euroasia" [ref=e110] [cursor=pointer]:
+                - /url: /businesses/euroasia?utm_source=nc_search
+            - generic [ref=e112]: Unregistered
+          - generic [ref=e116]:
+            - generic [ref=e117]:
+              - generic [ref=e118]: 
+              - generic [ref=e119]: 
+              - generic [ref=e120]: 
+              - generic [ref=e121]: 
+              - generic [ref=e122]: 
+            - generic [ref=e123]:
+              - text: 91% from 8 ratings –
+              - generic [ref=e124]:
+                - text: Located in Auckland Central
+                - emphasis [ref=e125]: (nearby)
+                - text: – Business Development & Growth
+        - listitem [ref=e126]:
+          - generic [ref=e127]:
+            - heading "SBG NZ School of Business and Government" [level=3] [ref=e128]:
+              - link "SBG NZ School of Business and Government" [ref=e129] [cursor=pointer]:
+                - /url: /businesses/SBG-NZ-School-of-Business-and-Government?utm_source=nc_search
+            - generic [ref=e131]: Unregistered
+          - generic [ref=e135]:
+            - generic [ref=e136]:
+              - generic [ref=e137]: 
+              - generic [ref=e138]: 
+              - generic [ref=e139]: 
+              - generic [ref=e140]: 
+              - generic [ref=e141]: 
+            - generic [ref=e142]:
+              - text: No ratings –
+              - generic [ref=e143]:
+                - text: Located in Wellington CBD
+                - emphasis [ref=e144]: (nearby)
+                - text: – Academic
+        - listitem [ref=e145]:
+          - generic [ref=e146]:
+            - heading "Greenice Web Development" [level=3] [ref=e147]:
+              - link "Greenice Web Development" [ref=e148] [cursor=pointer]:
+                - /url: /businesses/greenice-web-development?utm_source=nc_search
+            - generic [ref=e150]: Unregistered
+          - generic [ref=e154]:
+            - generic [ref=e155]:
+              - generic [ref=e156]: 
+              - generic [ref=e157]: 
+              - generic [ref=e158]: 
+              - generic [ref=e159]: 
+              - generic [ref=e160]: 
+            - generic [ref=e161]:
+              - text: 63.3% from 3 ratings –
+              - generic [ref=e162]:
+                - text: Located in Ngongotaha
+                - emphasis [ref=e163]: (4.7kms)
+                - text: – Academic
+      - generic [ref=e164]:
+        - generic [ref=e165]: ‹‹ Previous
+        - text: "| 1 |"
+        - generic [ref=e166]: Next ››
+        - generic [ref=e167]: Showing 3 items on one page
+        - generic [ref=e168]:
+          - text: Display 10 |
+          - link "20" [ref=e169] [cursor=pointer]:
+            - /url: /search/wellington-cbd/academic?registered=1&sort=&recentReviews=0&per-page=20
+          - text: "|"
+          - link "50" [ref=e170] [cursor=pointer]:
+            - /url: /search/wellington-cbd/academic?registered=1&sort=&recentReviews=0&per-page=50
+          - text: "|"
+          - link "100" [ref=e171] [cursor=pointer]:
+            - /url: /search/wellington-cbd/academic?registered=1&sort=&recentReviews=0&per-page=100
+          - text: results per page
+    - paragraph [ref=e172]:
+      - generic [ref=e173]:
+        - text: Found something that doesn't make sense? Search not working properly?
+        - link "Let us know! We like to learn!" [ref=e174] [cursor=pointer]:
+          - /url: /contact-us/send-message?type=search
+      - generic [ref=e175]:
+        - text: Can't find the business you want to rate?
+        - link "Add it here…" [ref=e176] [cursor=pointer]:
+          - /url: /add-business
+      - generic [ref=e177]:
+        - text: Are you a tradesperson or a business that isn't listed?
+        - link "Add your business here…" [ref=e178] [cursor=pointer]:
+          - /url: /register/business
+  - contentinfo [ref=e179]:
+    - generic [ref=e180]:
+      - generic [ref=e181]:
+        - strong [ref=e183]: Website
+        - list [ref=e185]:
+          - listitem [ref=e186]:
+            - link "Home" [ref=e187] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e188]:
+            - link "How it Works" [ref=e189] [cursor=pointer]:
+              - /url: /everyone
+          - listitem [ref=e190]:
+            - link "For Businesses" [ref=e191] [cursor=pointer]:
+              - /url: /businesses
+          - listitem [ref=e192]:
+            - link "Jobs" [ref=e193] [cursor=pointer]:
+              - /url: /new/jobs
+          - listitem [ref=e194]:
+            - link "FAQs" [ref=e195] [cursor=pointer]:
+              - /url: /faq
+          - listitem [ref=e196]:
+            - link "Blog" [ref=e197] [cursor=pointer]:
+              - /url: /blog
+          - listitem [ref=e198]:
+            - link "Login" [ref=e199] [cursor=pointer]:
+              - /url: /login
+          - listitem [ref=e200]:
+            - link "NC Websites" [ref=e201] [cursor=pointer]:
+              - /url: /nc-websites
+      - generic [ref=e202]:
+        - strong [ref=e204]: Ratings
+        - list [ref=e206]:
+          - listitem [ref=e207]:
+            - link "Find a Tradie/Business" [ref=e208] [cursor=pointer]:
+              - /url: /#
+          - listitem [ref=e209]:
+            - link "Most Recent Ratings" [ref=e210] [cursor=pointer]:
+              - /url: /recent-ratings
+          - listitem [ref=e211]:
+            - link "Browse All Categories" [ref=e212] [cursor=pointer]:
+              - /url: /category-list
+      - generic [ref=e213]:
+        - strong [ref=e215]: Company
+        - list [ref=e217]:
+          - listitem [ref=e218]:
+            - link "About" [ref=e219] [cursor=pointer]:
+              - /url: /about-us
+          - listitem [ref=e220]:
+            - link "What's in it for Businesses" [ref=e221] [cursor=pointer]:
+              - /url: /why-register
+          - listitem [ref=e222]:
+            - link "Feedback" [ref=e223] [cursor=pointer]:
+              - /url: /contact-us/send-message
+          - listitem [ref=e224]:
+            - link "Contact" [ref=e225] [cursor=pointer]:
+              - /url: /contact-us
+          - listitem [ref=e226]:
+            - link "Testimonials" [ref=e227] [cursor=pointer]:
+              - /url: /testimonials
+          - listitem [ref=e228]:
+            - link "NoCowboys Perks" [ref=e229] [cursor=pointer]:
+              - /url: https://www.nocowboys-perks.co.nz/
+      - generic [ref=e230]:
+        - strong [ref=e232]: Social
+        - list [ref=e234]:
+          - listitem [ref=e235]:
+            - link "Facebook" [ref=e236] [cursor=pointer]:
+              - /url: http://www.facebook.com/NoCowboysTradieReviews
+          - listitem [ref=e237]:
+            - link "Twitter" [ref=e238] [cursor=pointer]:
+              - /url: http://twitter.com/nocowboys
+          - listitem [ref=e239]:
+            - link "Instagram" [ref=e240] [cursor=pointer]:
+              - /url: https://www.instagram.com/nocowboys
+      - generic [ref=e242]:
+        - paragraph [ref=e243]:
+          - text: All content copyright ©2006-2026, NoCowboys Limited. Read our
+          - link "Terms and Conditions" [ref=e244] [cursor=pointer]:
+            - /url: /terms-conditions
+          - text: .
+        - paragraph [ref=e245]: NoCowboys v.3.0.2101
+  - status
+```
